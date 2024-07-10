@@ -3,8 +3,7 @@
 body{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
+    
 }
 
 nav {
@@ -20,12 +19,12 @@ nav > button {
 }
 
 main {
-position: absolute;
+position: relative;
 width: 1500px;
 height: 652px;
 left: 0;
 right: 0;
-top: 100px;
+top: 30px;
 background-image: url(/assets/Hero-bg.png);
 display: flex;
 flex-direction: row;
@@ -75,4 +74,133 @@ main > section > button {
     border-radius: 5px;
     text-align: center;
     margin-top: 20px;
+}
+
+.section-2{
+    margin-top: 100px;
+    width: 1140px;
+    height: 1380px;
+    margin-right: auto;
+    margin-left: auto;
+ 
+}
+
+.h1-1 {
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.p-1 {
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    text-align: center;
+}
+
+.div-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+
+}
+
+.div-2 {
+    width: 800px;
+    margin-top: 0px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.h3-1{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 0px;
+}
+.p-2 {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    width: 650px;
+ 
+}
+
+.button-1 {
+    width: 150px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+  
+    border-radius: 5px;
+}
+.div-3 {
+    width: 200px;
+    height: 220px;
+    margin-top: 0px;
+     
+}
+
+.img-1 {
+    width: auto;
+    height: auto;
+}
+
+.div-4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+
+}
+
+.div-5 {
+    width: 200px;
+    height: 220px;
+    margin-top: 0px;
+     
+}
+
+.div-6 {
+    width: 800px;
+    margin-top: 0px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: self-start;
+    padding-left: 50px;
+    
+   
+}
+
+.h3-2{
+    font-size: 24px;
+    font-weight: 700;
+    text-align: left;
+    margin-top: 0px;
+}
+.p-3 {
+    font-size: 16px;
+    font-weight: 400;
+    width: auto;
+    text-align: left;
+    width: 610px;
+ 
+}
+
+.button-2 {
+    width: 150px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    border-radius: 5px;
+    align-self: self-start;
 }
