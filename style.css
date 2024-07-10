@@ -219,3 +219,25 @@ main > section > button {
     align-items: center;
     margin: auto;
 }
+
+.img-c {
+    width: 50px;
+    height: 50px;
+}
+
+.h2-c {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.p-c {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.h6-c {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+    
