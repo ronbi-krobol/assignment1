@@ -278,7 +278,7 @@ main > section > a> button {
 .div-d {
     width: 1140px;
     height: 350px;  
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)) , url(./assets/handshake.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)) , url(./assets/handshake.png);
     background-position: center;
     background-size: cover;
     border-radius: 16px;
