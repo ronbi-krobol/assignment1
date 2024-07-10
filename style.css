@@ -329,3 +329,56 @@ main > section > button {
     margin: auto;
     margin-top: 30px;
 }
+
+.section-31 {
+    width: 1140px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.div-e {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.div-c1 {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    gap: 40px;
+    width: 1140px;
+    border: 1px solid rgba(13, 19, 33, 0.15);;
+    border-radius: 10px;
+    
+}
+
+.img-ce {
+    width: 94px;
+    height: 84px;
+    margin-top: 40px;
+    
+}
+
+.div-ce{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
+.h2-ce {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.p-ce {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.h6-ce {
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
