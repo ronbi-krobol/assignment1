@@ -79,7 +79,7 @@ main > section > button {
 .section-2{
     margin-top: 100px;
     width: 1140px;
-    height: 1380px;
+    height: 1120px;
     margin-right: auto;
     margin-left: auto;
  
@@ -203,4 +203,19 @@ main > section > button {
     opacity: 0.7;
     border-radius: 5px;
     align-self: self-start;
+}
+
+.div-7 {
+    width: 1140px;
+    height: 550px;
+    margin-top: 20px;
+}
+
+.section-3 {
+    width: 1140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
 }
